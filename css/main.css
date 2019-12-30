@@ -929,7 +929,6 @@ pre .javascript .function {
   }
 }
 .header {
-  background-image: url("../../../images/header_bg.jpg");
   background-size: 100% 100%;
   height: 250px;
 }
@@ -1232,7 +1231,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #287598;
+  background: #ff38ed;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
